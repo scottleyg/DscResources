@@ -63,7 +63,7 @@
 	url = https://github.com/PowerShell/xMySql
 [submodule "xDscResources/xNetworking"]
 	path = xDscResources/xNetworking
-	url = https://github.com/PowerShell/xNetworking
+	url = https://github.com/scottleyg/xNetworking
 [submodule "xDscResources/xPendingReboot"]
 	path = xDscResources/xPendingReboot
 	url = https://github.com/PowerShell/xPendingReboot
@@ -176,7 +176,7 @@
 	url = https://github.com/PowerShell/OfficeOnlineServerDsc
 [submodule "DscResources/PSDscResources"]
 	path = DscResources/PSDscResources
-	url = https://github.com/PowerShell/PSDscResources
+	url = https://github.com/scottleyg/PSDscResources
 [submodule "DscResources/AuditPolicyDsc"]
 	path = DscResources/AuditPolicyDsc
 	url = https://github.com/PowerShell/AuditPolicyDsc
